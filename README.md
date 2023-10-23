@@ -32,7 +32,7 @@ This project is a Work Management App developed using JavaScript, HTML, CSS, and
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Work-Management-App.git
+   git clone https://github.com/ParthShethSK/Work-Management-App.git
 2. Install project dependencies:
    ```sh
    cd Work-Management-App
