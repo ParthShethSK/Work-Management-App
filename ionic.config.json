@@ -1,0 +1,7 @@
+{
+  "name": "myConsilium",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react" ,"port":3005  
+}
